@@ -1,0 +1,22 @@
+{
+	"name": "streamifier",
+	"version": "0.0.1",
+	"description": "Converts raw data to a readable stream",
+	"keywords": ["string", "buffer", "readable", "stream"],
+	"author": {
+		"name": "Gabriel Llamas",
+		"email": "gaglekas@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Gagle/Node-Streamifier.git"
+	},
+	"engines": {
+		"node": ">=0.10.0"
+	},
+	"licenses": [{
+		"type": "MIT",
+		"url": "http://www.opensource.org/licenses/mit-license.html"
+	}],
+	"main": "lib/streamifier"
+}
