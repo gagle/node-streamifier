@@ -3,11 +3,11 @@ streamifier
 
 _Node.js project_
 
-#### Converts raw data to a readable stream ####
+#### Converts a Buffer/String to a readable stream ####
 
 Version: 0.0.1
 
-There are times when you have a buffer or a string but you need to pipe it to a writable stream. You could write it to a temporary file and create a readable stream tat reads from it or you could simply convert the buffer or string to a readable stream.
+There are times when you have a buffer/string but you need to pipe it to a writable stream. You could write it to a temporary file and create a readable stream that reads from it or you could simply convert the buffer/string to a readable stream.
 
 #### Example ####
 

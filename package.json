@@ -1,7 +1,7 @@
 {
 	"name": "streamifier",
 	"version": "0.0.1",
-	"description": "Converts raw data to a readable stream",
+	"description": "Converts a Buffer/String to a readable stream",
 	"keywords": ["string", "buffer", "readable", "stream"],
 	"author": {
 		"name": "Gabriel Llamas",
