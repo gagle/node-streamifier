@@ -12,11 +12,11 @@ There are times when you have a buffer/string but you need to pipe it to a writa
 #### Example ####
 
 ```javascript
-var ss = require ("streamifier");
+var streamifier = require ("streamifier");
 
-ss.createStringStream (new Buffer ("my string", "utf8")).pipe (process.stdout);
+streamifier.createReadStream (new Buffer ("my string", "utf8")).pipe (process.stdout);
 //Prints: my string
 
-ss.createStringStream ("my string").pipe (process.stdout);
+streamifier.createReadStream ("my string").pipe (process.stdout);
 //Prints: my string
 ```
