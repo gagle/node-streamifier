@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/Gagle/node-streamifier.git"
+		"url": "git://github.com/gagle/node-streamifier.git"
 	},
 	"engines": {
 		"node": ">=0.10"
