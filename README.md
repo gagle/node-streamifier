@@ -20,7 +20,8 @@ npm install streamifier
 ---
 
 <a name="createReadStream"></a>
-___module_.createReadStream(buffer[, options]) : Readable__  
+___module_.createReadStream(buffer[, options]) : Readable__
+
 Returns a Readable stream.
 
 The `buffer` parameter can be a String or a Buffer.  
