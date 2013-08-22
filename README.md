@@ -3,7 +3,7 @@ streamifier
 
 _Node.js project_
 
-#### Converts a Buffer/String to a readable stream ####
+#### Converts a Buffer/String to a Readable stream ####
 
 Version: 0.0.2
 
