@@ -25,4 +25,4 @@ ___module_.createReadStream(buffer[, options]) : Readable__
 Returns a Readable stream.
 
 The `buffer` parameter can be a String or a Buffer.  
-The `options` are the same as the [Readable](http://nodejs.org/api/stream.html#stream_class_stream_readable) stream.
+The `options` are the same as the [Readable](http://nodejs.org/api/stream.html#stream_new_stream_readable_options) stream.
