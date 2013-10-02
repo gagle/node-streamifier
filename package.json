@@ -3,14 +3,8 @@
 	"version": "0.0.2",
 	"description": "Converts a Buffer/String to a readable stream",
 	"keywords": ["string", "buffer", "readable", "stream"],
-	"author": {
-		"name": "Gabriel Llamas",
-		"email": "gagle@outlook.com"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/gagle/node-streamifier.git"
-	},
+	"author": "Gabriel Llamas <gagle@outlook.com>",
+	"repository": "git://github.com/gagle/node-streamifier.git",
 	"engines": {
 		"node": ">=0.10"
 	},
