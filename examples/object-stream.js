@@ -5,9 +5,9 @@ var util = require ("util");
 var streamifier = require ("../lib");
 
 /*
-Since a readable in object mode cannot be piped to a writable stream because
-it only accepts Buffers or strings, the object must be stringified using a
-Transform stream.
+Since a readable stream in object mode cannot be piped to a writable stream
+because it only accepts Buffers or strings, the object must be stringified using
+a Transform stream.
 */
 
 var JSONStringifier = function (){
