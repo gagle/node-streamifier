@@ -1,6 +1,6 @@
 {
 	"name": "streamifier",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"description": "Converts a Buffer/String to a readable stream",
 	"keywords": ["string", "buffer", "readable", "stream"],
 	"author": "Gabriel Llamas <gagle@outlook.com>",
