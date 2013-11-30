@@ -5,7 +5,7 @@ _Node.js project_
 
 #### Converts any data type to a Readable stream ####
 
-Version: 0.1.0
+[![NPM version](https://badge.fury.io/js/streamifier.png)](http://badge.fury.io/js/streamifier "Fury Version Badge")
 
 #### Installation ####
 
