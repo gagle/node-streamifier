@@ -1,17 +1,11 @@
 streamifier
 ===========
 
-_Node.js project_
-
 #### Converts any data type to a Readable stream ####
 
 [![NPM version](https://badge.fury.io/js/streamifier.png)](http://badge.fury.io/js/streamifier "Fury Version Badge")
 
-#### Installation ####
-
-```
-npm install streamifier
-```
+[![NPM installation](https://nodei.co/npm/streamifier.png?mini=true)](https://nodei.co/npm/streamifier "NodeICO Badge")
 
 #### Functions ####
 
