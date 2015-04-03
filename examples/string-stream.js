@@ -1,6 +1,6 @@
-"use strict";
+'use strict';
 
-var streamifier = require ("../lib");
+var streamifier = require('../lib');
 
-streamifier.createReadStream ("abc").pipe (process.stdout);
-//abc
+streamifier.createReadStream('abc').pipe(process.stdout);
+// abc
