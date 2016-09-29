@@ -1,6 +1,6 @@
 {
   "name": "streamifier",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Converts a Buffer/String into a readable stream",
   "keywords": [
     "string",
@@ -8,11 +8,14 @@
     "readable",
     "stream"
   ],
-  "author": "Gabriel Llamas <gagle@outlook.com>",
+  "author": [
+      "Gabriel Llamas <gagle@outlook.com>",
+      "Nick Soggin <nick@parellin.com>"
+  ],
   "repository": "git://github.com/gagle/node-streamifier.git",
   "engines": {
     "node": ">=0.10"
   },
   "license": "MIT",
-  "main": "lib"
+  "main": "index.js"
 }

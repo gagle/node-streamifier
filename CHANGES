@@ -1,5 +1,10 @@
+v0.2.0 (29 Sept 2016)
+    Updated to >= v6.0.0 format.
+    Simplified structure.
+    Clean up.
+
 v0.1.1 (03 Apr 2015)
-  Clean up.
+    Clean up.
 
 v0.1.0 (21 Oct 2013)
 	Performance slightly improved due to the simplification of the code. This is
