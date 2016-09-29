@@ -2,7 +2,7 @@
 
 var stream = require('stream');
 var util = require('util');
-var streamifier = require('../lib');
+var streamifier = require('../');
 
 /**
  * Since a readable stream in object mode cannot be piped to a writable stream
